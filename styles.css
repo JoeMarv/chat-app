@@ -19,7 +19,7 @@ body {
 
 .design2 {
     background-color: hsl(270, 0%, 96%);
-    height: 200vw;
+    height: 168vw;
     width: 55vw;
     margin-top: 80vw;
     margin-right: -50vw;
@@ -38,7 +38,7 @@ body {
     box-shadow: 1vw 2vw 6vw 0vw hsl(300, 1%, 83%);
     position:absolute;
     width: 60vw;
-    height: 140vw 
+    height: 134vw 
 }
 
 .notch {
